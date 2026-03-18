@@ -90,6 +90,7 @@ D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\SmartInvent
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\SmartInventory.API.csproj.CoreCompileInputs.cache
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\SmartInventory.API.MvcApplicationPartsAssemblyInfo.cs
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\SmartInventory.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\SmartInventory.API.sourcelink.json
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\SmartInventory\SmartInventory\SmartInventory.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

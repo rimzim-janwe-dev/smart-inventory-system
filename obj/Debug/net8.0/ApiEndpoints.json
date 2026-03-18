@@ -20,7 +20,7 @@
       {
         "Name": "product",
         "Type": "SmartInventory.API.Models.Product",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
