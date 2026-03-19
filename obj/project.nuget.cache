@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frzK6GCjSyM=",
+  "dgSpecHash": "n1NvYm0qj1g=",
   "success": true,
-  "projectFilePath": "D:\\SmartInventory\\SmartInventory\\SmartInventory.API\\SmartInventory.API.csproj",
+  "projectFilePath": "D:\\SmartInventory\\SmartInventory.API\\SmartInventory.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
